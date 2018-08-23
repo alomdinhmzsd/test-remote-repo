@@ -1,1 +1,2 @@
 This is to add github goodies
+This is the second line of the git test
